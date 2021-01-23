@@ -1,7 +1,8 @@
 # Binance Price
 ------------------------------------------------------------------
-* Stream and collect sub-minute trading pair price from Binance. 
-* Data is stored in sqlite3.
+* Collect trading pair prices from Binance for analysis and backtesting
+* Data is stored in sqlite3
+* Update Speed: 2000ms
 ------------------------------------------------------------------
 
 ### Dependencies
