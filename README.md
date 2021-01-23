@@ -19,4 +19,5 @@ Run in terminal:
 `python binance_price.py trading_pair timeframe`
 
 `python binance_price.py ethbtc 1m`
+
 ------------------------------------------------------------------
